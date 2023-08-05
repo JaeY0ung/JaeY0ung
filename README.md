@@ -1,6 +1,6 @@
 ### Hi there 👋   
 
-# 불편함을 꺠닫고 해결해나가는 정재영입니다
+# 불편함을 꺠닫고 해결해나가는 정재영입니다
 
 ### Contact Me : ![Static Badge](https://img.shields.io/badge/hanol98%40naver.com-white?style=flat-square&logo=Naver&logoColor=white&color=%2303C75A)
 

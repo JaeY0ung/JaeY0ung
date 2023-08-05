@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**JaeY0ung/JaeY0ung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
 
-Here are some ideas to get you started:
+* WEB
+Python, Flask, Django, Jinja2, Selenium
+#3776AB, 
+Html, Css, Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* DB
+SQLite3, Firebase Realtime Database
+
+* etc
+Arduino, mysql, Git, Notion
+
+*env
+macos
+
+
+### 나의 히스토리
+2017.03 ~ 2024.03 : 서울시립대학교 신소재공학과, 수학과(복수전공) 재학 중
+2023.06 ~ 2023.09 : (청년취업사관학교 SeSAC 서대문 1기) 파이썬 기반 풀스택 웹 서비스 프로그램 이수 중

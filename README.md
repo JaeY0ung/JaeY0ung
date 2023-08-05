@@ -2,7 +2,7 @@
 
 ## Tech Stack   
 
-* WEB
+* WEB   
 ![Static Badge](https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=white&color=%233776AB)
 ![Static Badge](https://img.shields.io/badge/Flask-white?style=flat-square&logo=flask&logoColor=white&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/Django-white?style=flat-square&logo=django&logoColor=white&color=%23092E20)
@@ -17,13 +17,13 @@
 ![Static Badge](https://img.shields.io/badge/SQLite3-white?style=flat-square&logo=SQLite&logoColor=white&color=%23003B57)
 ![Static Badge](https://img.shields.io/badge/%20Firebase%20Realtime%20Database-white?style=flat-square&logo=Firebase&logoColor=white&color=%23FFCA28)
 
-* etc
+* etc   
 ![Static Badge](https://img.shields.io/badge/Arduino-white?style=flat-square&logo=Arduino&logoColor=white&color=%2300878F)
 ![Static Badge](https://img.shields.io/badge/MYSQL-white?style=flat-square&logo=MYSQL&logoColor=white&color=%234479A1)
 ![Static Badge](https://img.shields.io/badge/Git-white?style=flat-square&logo=Git&logoColor=white&color=%23F05032)
 ![Static Badge](https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=white&color=%23000000)
 
-* env
+* env   
 ![Static Badge](https://img.shields.io/badge/MacOS-white?style=flat-square&logo=Apple&logoColor=white&color=%23000000)
 
 

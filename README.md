@@ -1,6 +1,6 @@
 ### Hi there 👋   
 
-# 불편함을 깨닫고 해결해나가는 정재영의 프로필
+# 불편함을 깨닫고 해결해나가는 98년생 정재영의 프로필
 
 ### Contact Me : ![Static Badge](https://img.shields.io/badge/hanol98%40naver.com-white?style=flat-square&logo=Naver&logoColor=white&color=%2303C75A)
 

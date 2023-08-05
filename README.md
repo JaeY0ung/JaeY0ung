@@ -1,6 +1,7 @@
 ### Hi there 👋   
 
-### Contact Me : ![Static Badge](https://img.shields.io/badge/Naver-white?style=flat-square&logo=Naver&logoColor=white&label=hanol98%40naver.com&color=%2303C75A)
+### Contact Me : ![Static Badge](https://img.shields.io/badge/hanol98%40naver.com-white?style=flat-square&logo=Naver&logoColor=white&color=%2303C75A)
+
 
 
 ## Tech Stack   

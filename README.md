@@ -2,9 +2,9 @@
 
 ## Tech Stack   
 
-* WEB   
-Python, Flask, Django, Jinja2, Selenium   
-#3776AB,    
+* WEB
+![Static Badge](https://img.shields.io/badge/Python?style=flat-square&logo=Python&logoColor=white&color=%233776AB)
+Python, Flask, Django, Jinja2, Selenium       
 Html, Css, Javascript   
 
 * DB   

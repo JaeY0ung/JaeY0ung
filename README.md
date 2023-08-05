@@ -2,18 +2,18 @@
 
 ## Tech Stack
 
-* WEB
+* WEB   
 Python, Flask, Django, Jinja2, Selenium
 #3776AB, 
 Html, Css, Javascript
 
-* DB
+* DB   
 SQLite3, Firebase Realtime Database
 
-* etc
+* etc   
 Arduino, mysql, Git, Notion
 
-*env
+*env   
 macos
 
 

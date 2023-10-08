@@ -1,4 +1,4 @@
-## 불편함을 깨닫고 해결해나가는 98년생 정재영
+## 고민을 통해 근본적인 불편함을 깨닫고 대화를 통해 해결점을 찾아 직접 해결하는 개발자 정재영입니다
 
 ##### Contact Me : ![Static Badge](https://img.shields.io/badge/hanol98%40naver.com-white?style=flat-square&logo=Naver&logoColor=white&color=%2303C75A)   
    

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=개발자%20정재영의%20블로그&animation=twinkling&descAlign=75&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=개발자%20정재영의%20블로그&animation=twinkling&descAlign=75&descAlignY=40&fontSize=30)
 
 ## 고민을 통해 근본적인 불편함을 깨닫고 대화를 통해 해결점을 찾아 직접 해결하는 개발자 정재영입니다
 

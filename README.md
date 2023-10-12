@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=개발자%20정재영의%20블로그&animation=twinkling&descAlign=75&descAlignY=40&fontSize=30)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header)
 
 ## 고민을 통해 근본적인 불편함을 깨닫고 대화를 통해 해결점을 찾아 직접 해결하는 개발자 정재영입니다
 
@@ -22,23 +23,9 @@
 * env   
 ![Static Badge](https://img.shields.io/badge/MacOS-white?style=flat-square&logo=Apple&logoColor=white&color=%23000000)
 
-
-<!-- 
-Python, Flask, Django, Jinja2, Selenium       
-Html, Css, Javascript
-
-* DB   
-SQLite3, Firebase Realtime Database
-
-* etc   
-Arduino, mysql, Git, Notion   
-
-* env   
-macos   
--->
   
 ### 나의 히스토리   
-2017.03 ~ 2024.03 : 서울시립대학교 신소재공학과, 수학과(복수전공) 재학 중   
-2023.06 ~ 2023.09 : (청년취업사관학교 SeSAC 서대문 1기) 파이썬 기반 풀스택 웹 서비스 프로그램 이수   
-2023.09 ~ 현재     : 구글 머신러닝 부트캠프 진행중   
-2023.10 ~ 현재     : (네이버 커넥트재단 X 모두의 연구소) 부스트코스 코칭스터디 13기 Data Science 2023 리드부스터로 진행중   
+2017.03 - 2024.03 : 서울시립대학교 신소재공학과, 수학과(복수전공) 재학 중   
+2023.06 - 2023.09 : (청년취업사관학교 SeSAC 서대문 1기) 파이썬 기반 풀스택 웹 서비스 프로그램 이수   
+2023.09 - 2023.11 : 구글 머신러닝 부트캠프 진행중   
+2023.10 - 2023.11 : (네이버 커넥트재단 X 모두의 연구소) 부스트코스 코칭스터디 13기 Data Science 2023 리드부스터로 진행중   

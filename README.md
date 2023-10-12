@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=개발자%20정재영의%20블로그&animation=twinkling&descAlign=75&descAlignY=40&fontSize=30)
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header)
 
 ## 고민을 통해 근본적인 불편함을 깨닫고 대화를 통해 해결점을 찾아 직접 해결하는 개발자 정재영입니다
 
@@ -20,6 +19,7 @@
 ![Static Badge](https://img.shields.io/badge/Git-white?style=flat-square&logo=Git&logoColor=white&color=%23F05032)
 ![Static Badge](https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=white&color=%23000000)
 
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer)
 * env   
 ![Static Badge](https://img.shields.io/badge/MacOS-white?style=flat-square&logo=Apple&logoColor=white&color=%23000000)
 

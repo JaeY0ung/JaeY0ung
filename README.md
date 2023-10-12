@@ -19,7 +19,6 @@
 ![Static Badge](https://img.shields.io/badge/Git-white?style=flat-square&logo=Git&logoColor=white&color=%23F05032)
 ![Static Badge](https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=white&color=%23000000)
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer)
 * env   
 ![Static Badge](https://img.shields.io/badge/MacOS-white?style=flat-square&logo=Apple&logoColor=white&color=%23000000)
 
@@ -29,3 +28,5 @@
 2023.06 - 2023.09 : (청년취업사관학교 SeSAC 서대문 1기) 파이썬 기반 풀스택 웹 서비스 프로그램 이수   
 2023.09 - 2023.11 : 구글 머신러닝 부트캠프 진행중   
 2023.10 - 2023.11 : (네이버 커넥트재단 X 모두의 연구소) 부스트코스 코칭스터디 13기 Data Science 2023 리드부스터로 진행중   
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer)

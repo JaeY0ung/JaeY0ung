@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text= 👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&fontSize=90)
 
 ## 고민을 통해 근본적인 불편함을 깨닫고 대화를 통해 해결점을 찾아 직접 해결하는 개발자 정재영입니다
 

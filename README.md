@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=개발자%20정재영의%20블로그&animation=twinkling&descAlign=75&descAlignY=40&fontSize=30)
 
-## 고민을 통해 근본적인 불편함을 깨닫고 대화를 통해 해결점을 찾아 직접 해결하는 개발자 정재영입니다
+## 주변을 살피며 근본적인 불편함을 찾아 직접 해결해나가는 개발자 정재영입니다
 
 ##### Contact Me : ![Static Badge](https://img.shields.io/badge/hanol98%40naver.com-white?style=flat-square&logo=Naver&logoColor=white&color=%2303C75A)   
    

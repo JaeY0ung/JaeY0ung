@@ -55,7 +55,7 @@
 ![Harbor](https://img.shields.io/badge/Harbor-white?style=flat-square&color=%232B3137)
 ![MiniO](https://img.shields.io/badge/MiniO-white?style=flat-square&color=%23C71A36)
 
-# API / SDK
+### API / SDK
 ![Kakao Map](https://img.shields.io/badge/Kakao%20Map-white?style=flat-square&color=%23FEE500)
 ![Kakao Local](https://img.shields.io/badge/Kakao%20Local-white?style=flat-square&color=%23FEE500)
 ![Naver Map](https://img.shields.io/badge/Naver%20Map-white?style=flat-square&color=%2300C73C)

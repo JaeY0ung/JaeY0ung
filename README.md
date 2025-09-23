@@ -25,7 +25,7 @@
 ![ThymeLeaf](https://img.shields.io/badge/Thymeleaf-white?style=flat-square&logo=thymeleaf&logoColor=white&color=%23005800)
 ![Jsp](https://img.shields.io/badge/JSP-white?style=flat-square&color=%23FF5722)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-white?style=flat-square&color=%236DB33F)
-![Spring AI]((https://img.shields.io/badge/Spring%AI-white?style=flat-square&color=%236DB33F))
+![Spring AI](https://img.shields.io/badge/Spring%AI-white?style=flat-square&color=%236DB33F)
 
 ![Flask](https://img.shields.io/badge/Flask-white?style=flat-square&logo=flask&logoColor=white&color=%23000)
 ![Django](https://img.shields.io/badge/Django-white?style=flat-square&logo=django&logoColor=white&color=%23092E20)
@@ -96,14 +96,11 @@
 ### 🏃 Runners Hi (러너 커뮤니티 플랫폼)   
 ### 🎹 Archive (피아노 악보 난이도 분석/추천)   
 ### 🎧 듣공 (오디오 기반 문제 생성 서비스)   
-### 🗺 Planty (여행 일정/계획 서비스)   
-### 🧭 Day’Pl (일정 기반 여행 공유 서비스)   
-### 🔍 Finderz (분실자-습득자 연결 안드로이드 앱)   
-### 🏋 Arduino 기반 벤치프레스 안전장치 
+
 
 ## 📚 교육   
-•	KOSA 한국소프트웨어산업협회 MSA 기반 풀스택 개발 전문가 양성과정 10기 (2025.03 ~ 2025.09)  
-•	삼성 청년 SW 아카데미(SSAFY) 11기 (Java 전공자반) (2024.01 ~ 2024.12)   
-•	청년취업사관학교 SeSAC 서대문 1기 (Python 기반 풀스택 웹 개발) (2023.06 ~ 2023.09)   
+•	KOSA 한국소프트웨어산업협회 (MSA 기반 풀스택 개발 전문가 양성과정 10기) (2025.03 ~ 2025.09)  
+•	삼성 청년 SW 아카데미(SSAFY) (Java 전공자반) 11기 (2024.01 ~ 2024.12)   
+•	청년취업사관학교 SeSAC 서대문 1기 (2023.06 ~ 2023.09)   
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer)

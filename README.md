@@ -3,9 +3,9 @@
 ## 👤 소개
 - 이름: 정재영  
 - Birth: 1998.05.29  
-- Email: hanol98@naver.com  
+- Email: hanol98@naver.com    
 
----
+
 
 ## 🛠 Tech Stack   
 

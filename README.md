@@ -25,7 +25,7 @@
 ![ThymeLeaf](https://img.shields.io/badge/Thymeleaf-white?style=flat-square&logo=thymeleaf&logoColor=white&color=%23005800)
 ![Jsp](https://img.shields.io/badge/JSP-white?style=flat-square&color=%23FF5722)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-white?style=flat-square&color=%236DB33F)
-![Spring AI](https://img.shields.io/badge/Spring%AI-white?style=flat-square&color=%236DB33F)
+![Spring AI](https://img.shields.io/badge/Spring%20AI-white?style=flat-square&color=%236DB33F)
 
 ![Flask](https://img.shields.io/badge/Flask-white?style=flat-square&logo=flask&logoColor=white&color=%23000)
 ![Django](https://img.shields.io/badge/Django-white?style=flat-square&logo=django&logoColor=white&color=%23092E20)

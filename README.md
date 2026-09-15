@@ -103,4 +103,12 @@
 •	삼성 청년 SW 아카데미(SSAFY) (Java 전공자반) 11기 (2024.01 ~ 2024.12)   
 •	청년취업사관학교 SeSAC 서대문 1기 (2023.06 ~ 2023.09)   
 
+---
+
+## 👋 반갑습니다!
+
+안녕하세요, 정재영님. GitHub에서 프로필을 보고 반가운 마음에 인사를 남깁니다. 남겨주신 프로젝트들과 앞으로의 작업도 응원하겠습니다.
+
+— [@chg1per](https://github.com/chg1per)
+
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer)
